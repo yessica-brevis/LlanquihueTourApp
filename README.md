@@ -38,7 +38,8 @@ Los servicios disponibles incluyen excursiones culturales, paseos lacustres y ru
 
 1.- Clonar o descargar el repositorio.
 ```bash
-git clone https://github.com/yessica-brevis/LlanquihueTourApp.git
+git clone
+https://github.com/yessica-brevis/LlanquihueTourApp.git
 ```
 2.- Abrir el proyecto en NetBeans.
 
