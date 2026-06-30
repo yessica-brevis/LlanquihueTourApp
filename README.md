@@ -21,17 +21,17 @@ Los servicios disponibles incluyen excursiones culturales, paseos lacustres y ru
 ```plaintext
 
 📁 src/
-├── data/                          # Gestión de la colección de servicios turísticos.
+├── data/                           # Gestión de la colección de servicios turísticos.
 │   └── GestorServicios.java        # Agrega, almacena y muestra los servicios.
 
-├── model/                         # Clases del dominio.
+├── model/                          # Clases del dominio.
 │   ├── ServicioTuristico.java      # Clase base con la información común de todos los servicios (Super Clase).
 │   ├── ExcursionCultural.java      # Hereda de ServicioTuristico y representa excursiones culturales.
 │   ├── PaseoLacustre.java          # Hereda de ServicioTuristico y representa paseos por lagos.
 │   └── RutaGastronomica.java       # Hereda de ServicioTuristico y representa rutas gastronómicas.
 
-├── ui/                            # Interfaz de ejecución.
-│   └── Main.java                  # Punto de entrada del programa.
+├── ui/                             # Interfaz de ejecución.
+│   └── Main.java                   # Punto de entrada del programa.
 ````
 
 ##⚙️ Instrucciones para compilar y ejecutar
