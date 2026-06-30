@@ -48,7 +48,8 @@ git clone https://github.com/yessica-brevis/LlanquihueTourApp.git
 
 5-  Revisar la salida del programa en la consola.
 
-📂 Repositorio GitHub:** https://github.com/yessica-brevis/LlanquihueTourApp.git
+📂 Repositorio GitHub:
+https://github.com/yessica-brevis/LlanquihueTourApp.git
 
 
 📅 Fecha de entrega
