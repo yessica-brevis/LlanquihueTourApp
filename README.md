@@ -36,7 +36,7 @@ Los servicios disponibles incluyen excursiones culturales, paseos lacustres y ru
 
 ##⚙️ Instrucciones para compilar y ejecutar
 
-1.- Clonar o descargar el repositorio en boton `Code`
+1.- Clonar o descargar el repositorio en botón `Code`
 
 git clone
 ```bash
