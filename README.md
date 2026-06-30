@@ -1,14 +1,19 @@
-🧠 Evaluación Desarrollo Orientado a Objetos I – Semana 6
-👤 Autor del proyecto
-Nombre completo: Yessica Ximena Brevis Garnica
-Sección: 008A
-Carrera: Analista Programador Computacional
-Sede: Online
-📘 Descripción general del sistema
+#🧠 Evaluación Desarrollo Orientado a Objetos I – Semana 6
+
+## 👤 Autor del proyecto
+
+- **Nombre completo:** Yessica Ximena Brevis Garnica
+- **Sección:** 008A
+- **Carrera:** Analista Programador computacional
+- **Sede:** Online
+
+---
+
+##📘 Descripción general del sistema
 
 Este proyecto corresponde a la Evaluación de la Semana 6 de la asignatura Desarrollo Orientado a Objetos I.
 
-Consiste en una aplicación desarrollada en Java para administrar distintos servicios turísticos ofrecidos por una agencia. El sistema permite crear y gestionar diferentes tipos de servicios turísticos, aplicando los principios fundamentales de la Programación Orientada a Objetos como herencia, encapsulamiento y polimorfismo.
+Consiste en un sistema desarrollado en Java para administrar distintos servicios turísticos ofrecidos por una agencia. El sistema permite crear y gestionar diferentes tipos de servicios turísticos, aplicando los principios fundamentales de la Programación Orientada a Objetos como herencia, encapsulamiento y polimorfismo.
 
 Los servicios disponibles incluyen excursiones culturales, paseos lacustres y rutas gastronómicas, cada uno con características particulares.
 
